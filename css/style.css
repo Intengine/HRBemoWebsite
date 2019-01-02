@@ -1,0 +1,35 @@
+body, html {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+#header {
+    background-color: #19496c;
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 14px;
+    padding-left: 64px;
+}
+
+.flags {
+    padding: 2px;
+    float: right;
+}
+
+.navigation {
+    padding: 25px 0;
+    background-color: red;
+    position: -webkit-sticky;
+    text-align: center;
+    color: #fff;
+}
+
+.sticky {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    border-top: 0;
+}
