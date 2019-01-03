@@ -139,9 +139,9 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     }
 }
 
-/*section 1*/
+/*section*/
 
-#section1 {
+.section {
     text-align: center;
     padding: 80px 0 0 0;
     font-size: 36px;
@@ -155,7 +155,7 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     font-family: Raleway, serif;
     font-size: 14px;
     padding-top: 20px;
-    padding-bottom: 100px;
+    padding-bottom: 80px;
     padding-left: 200px;
     padding-right: 200px;
 }
@@ -166,4 +166,16 @@ hr {
     width: 120px;
     color: #19496c;
     background-color: #19496c;
+}
+
+h4 {
+    font-family: Roboto, serif;
+    text-align: center;
+}
+
+p {
+    font-family: Roboto, serif;
+    color: #808080;
+    text-align: center;
+    font-size: 13px
 }
