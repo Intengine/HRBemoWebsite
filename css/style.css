@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Thasadith');
+@import url('https://fonts.googleapis.com/css?family=Kanit');
 
 body, html {
     width: 100% !important;
@@ -20,23 +21,23 @@ body, html {
     background-repeat:no-repeat;
     background-size: cover;
     background-position:center;
-    height: 600px;
+    height: 100%;
 }
 
 #topText {
     position: absolute;
-    bottom: 50%;
+    top: 50%;
     right: 40px;
     text-align:right;
-    font-family: "Arial", serif;
-    font-size: 1.5vw;
+    font-family: Roboto, serif;
+    font-size: 2.0vw;
     color: white;
 }
 
 #whiteLogo {
-    width: 30%;
-    height: 30%;
     float: right;
+    width: 40%;
+    height: 40%;
 }
 
 .logo {
@@ -153,7 +154,7 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     color: #808080;
     text-align: center;
     font-family: Raleway, serif;
-    font-size: 14px;
+    font-size: 16px;
     padding-top: 20px;
     padding-bottom: 80px;
     padding-left: 200px;
@@ -178,4 +179,34 @@ p {
     color: #808080;
     text-align: center;
     font-size: 13px
+}
+
+/*footer*/
+
+footer {
+    background-color: #19496c;
+    padding: 60px;
+    color: white;
+    font-size: 12px;
+}
+
+footer img {
+    width: 60%;
+    height: 60%;
+}
+
+footer p {
+    font-size: 16px;
+    font-family: Kanit, serif;
+    color: #ffffff;
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+footer span {
+    font-size: 14px;
+    font-family: Roboto, serif;
+    color: #ffffff;
+    text-align: left;
 }
