@@ -250,7 +250,6 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     font-size: 16px;
     padding-top: 20px;
     margin-left: 40px;
-    margin-right: 40px;
 }
 
 /*aktualności*/
@@ -320,6 +319,24 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
 
 .link:hover .download-text {
     opacity: 1;
+}
+
+/*contact*/
+
+.contact {
+    text-align: center;
+    padding: 80px 0 0 0;
+    font-size: 36px;
+    font-family: Roboto, serif;
+    color: #19496c;
+}
+
+.contact-center-text {
+    color: #808080;
+    text-align: center;
+    font-family: Raleway, serif;
+    font-size: 16px;
+    padding-top: 20px;
 }
 
 /*footer*/
