@@ -199,19 +199,13 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
 
 /*o firmie*/
 
-.img-o-firmie-left {
-    float: left;
-    width: 50%;
-    height: 50%;
-    margin-right: 30px;
-}
-
 .section-o-firmie-left {
     text-align: left;
     padding: 80px 0 0 0;
     font-size: 36px;
     font-family: Roboto, serif;
     color: #19496c;
+    margin-left: 20px;
 }
 
 .text-o-firmie-left {
@@ -220,15 +214,6 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     font-family: Raleway, serif;
     font-size: 16px;
     padding-top: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
-}
-
-.img-o-firmie-right {
-    float: right;
-    width: 50%;
-    height: 50%;
-    margin-left: 30px;
 }
 
 .section-o-firmie-right {
@@ -237,6 +222,7 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     font-size: 36px;
     font-family: Roboto, serif;
     color: #19496c;
+    margin-right: 20px;
 }
 
 .text-o-firmie-right {
@@ -245,7 +231,6 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     font-family: Raleway, serif;
     font-size: 16px;
     padding-top: 20px;
-    margin-left: 40px;
 }
 
 /*aktualności*/
@@ -283,6 +268,7 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
 }
 
 /*download*/
+
 .download {
     text-align: center;
     padding-bottom: 40px;
