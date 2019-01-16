@@ -147,7 +147,7 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
 }
 
 @media screen and (max-width: 600px) {
-    .navigation a:not(:first-child) {
+    .navigation a {
         display: none;
     }
     .navigation a.icon {
