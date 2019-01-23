@@ -8,6 +8,10 @@ body, html {
     height: 100% !important;
 }
 
+tbody, th, tr, td {
+    text-align: center;
+}
+
 hr {
     border: none;
     height: 10px;
@@ -497,6 +501,20 @@ footer span {
     }
 
     .right {
-        left: 0%;
+        left: 0;
     }
+}
+
+/*in catalogue section*/
+
+.description-title {
+    text-align: center;
+    font-size: 36px;
+    font-family: Roboto, serif;
+    color: #19496c;
+}
+
+.description {
+    text-align: center;
+    padding: 20px;
 }
