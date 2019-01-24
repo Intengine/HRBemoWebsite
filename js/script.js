@@ -6,3 +6,7 @@ function myFunction() {
         nav.className = "navigation";
     }
 }
+
+$(window).load(function(){
+    $('#myModal').modal('show');
+});
