@@ -244,6 +244,16 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     padding-top: 20px;
 }
 
+.png-shadowed {
+    -webkit-filter: drop-shadow(0px 0px 0px #222);
+    filter: drop-shadow(1px 1px 3px #222);
+}
+
+.about-image {
+    width: 40%;
+    height: 40%;
+}
+
 /*aktualności*/
 
 .img-news {
