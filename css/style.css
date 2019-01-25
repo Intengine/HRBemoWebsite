@@ -362,6 +362,12 @@ footer span {
     text-align: left;
 }
 
+.copyright {
+    padding: 20px;
+    background-color: #23527c;
+    text-align: center;
+}
+
 /*cookies*/
 
 .alert {
