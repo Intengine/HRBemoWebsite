@@ -334,6 +334,14 @@ div.topBottomBordersOut a:hover:before, div.topBottomBordersOut a:hover:after {
     color: #19496c;
 }
 
+.contact-text {
+    text-align: center;
+    padding: 0 0 80px 0;
+    font-size: 36px;
+    font-family: Roboto, serif;
+    color: #19496c;
+}
+
 .contact-center-text {
     color: #808080;
     text-align: center;
