@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1148dfea-23dd-4770-99bc-d99d4ccf5ce9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._cud_mockup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._owh_mockup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._rzymskie4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/akcesoria.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/akcesoria.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/catalogue_mockup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/catalogue_mockup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cud_mockup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/cud_mockup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dzieninoc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/instruction_mockup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/instruction_mockup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_hrbemo_białe.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo_hrbemo_białe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/materialowe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/materialowe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/moskitiera.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/moskitiera.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/owh_mockup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/owh_mockup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/plisa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/plisa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/rzymskie3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/rzymskie3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wertikal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/wertikal.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rzymska.html" beforeDir="false" afterPath="$PROJECT_DIR$/rzymska.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalogi.html" beforeDir="false" afterPath="$PROJECT_DIR$/katalogi.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="426" column="42" selection-start-line="426" selection-start-column="42" selection-end-line="426" selection-end-column="42" />
+            <state relative-caret-position="312">
+              <caret line="422" column="25" lean-forward="true" selection-start-line="422" selection-start-column="25" selection-end-line="422" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -55,8 +71,8 @@
       <file leaf-file-name="rzymska.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rzymska.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="89" column="6" lean-forward="true" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+            <state relative-caret-position="652">
+              <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -69,6 +85,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="426">
               <caret line="68" column="17" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dzieninoc.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzieninoc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="katalogi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/katalogi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="115" column="18" lean-forward="true" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -92,6 +126,7 @@
       <find>dropdown-content</find>
       <find>w3-border</find>
       <find>w3-dropdown</find>
+      <find>dzieninoc2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -109,13 +144,13 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/ofirmie_de.html" />
         <option value="$PROJECT_DIR$/aktualnosci.html" />
-        <option value="$PROJECT_DIR$/katalogi.html" />
         <option value="$PROJECT_DIR$/kontakt.html" />
         <option value="$PROJECT_DIR$/dzieninoc.html" />
         <option value="$PROJECT_DIR$/ofirmie.html" />
         <option value="$PROJECT_DIR$/dopobrania.html" />
         <option value="$PROJECT_DIR$/plisa.html" />
         <option value="$PROJECT_DIR$/rzymska.html" />
+        <option value="$PROJECT_DIR$/katalogi.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -259,12 +294,12 @@
       <workItem from="1548684400880" duration="70000" />
       <workItem from="1548850540740" duration="1438000" />
       <workItem from="1548852042163" duration="1748000" />
-      <workItem from="1549025060761" duration="1506000" />
+      <workItem from="1549025060761" duration="2778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155482000" />
+    <option name="totallyTimeSpent" value="156754000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -804,31 +839,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dzieninoc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/katalogi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kontakt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dopobrania.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -871,18 +885,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rzymska.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="89" column="6" lean-forward="true" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+        <state relative-caret-position="652">
+          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dzieninoc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dopobrania.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-645">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalogi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="115" column="18" lean-forward="true" selection-start-line="115" selection-start-column="18" selection-end-line="115" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="426" column="42" selection-start-line="426" selection-start-column="42" selection-end-line="426" selection-end-column="42" />
+        <state relative-caret-position="312">
+          <caret line="422" column="25" lean-forward="true" selection-start-line="422" selection-start-column="25" selection-end-line="422" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
