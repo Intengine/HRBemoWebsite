@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1148dfea-23dd-4770-99bc-d99d4ccf5ce9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/._ofirmie1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/._ofirmie2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/PlisaRender1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/PlisaRender2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/rzymskie3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/rzymskie3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plisa.html" beforeDir="false" afterPath="$PROJECT_DIR$/plisa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rzymska.html" beforeDir="false" afterPath="$PROJECT_DIR$/rzymska.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/materialowe2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/materialowe2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/materialowe3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/materialowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/materialowe.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,11 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rzymska.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rzymska.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rzymska.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="403">
               <caret line="98" column="42" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="materialowe.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/materialowe.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="96" column="44" lean-forward="true" selection-start-line="96" selection-start-column="44" selection-end-line="96" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -115,13 +118,13 @@
         <option value="$PROJECT_DIR$/katalogi.html" />
         <option value="$PROJECT_DIR$/kontakt.html" />
         <option value="$PROJECT_DIR$/ofirmie_de.html" />
-        <option value="$PROJECT_DIR$/materialowe.html" />
         <option value="$PROJECT_DIR$/moskitiery.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ofirmie.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/plisa.html" />
         <option value="$PROJECT_DIR$/rzymska.html" />
+        <option value="$PROJECT_DIR$/materialowe.html" />
       </list>
     </option>
   </component>
@@ -163,6 +166,11 @@
               <item name="HRBemoWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="HRBemoWebsite" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HRBemoWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HRBemoWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HRBemoWebsite" type="b2602c69:ProjectViewProjectNode" />
@@ -266,12 +274,12 @@
       <workItem from="1548852042163" duration="1748000" />
       <workItem from="1549025060761" duration="6745000" />
       <workItem from="1549278327973" duration="862000" />
-      <workItem from="1549438780011" duration="1771000" />
+      <workItem from="1549438780011" duration="2316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163354000" />
+    <option name="totallyTimeSpent" value="163899000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -618,13 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/materialowe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="157" column="12" lean-forward="true" selection-start-line="157" selection-start-column="12" selection-end-line="157" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kontakt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
@@ -672,8 +673,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rzymska.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="403">
           <caret line="98" column="42" selection-start-line="98" selection-start-column="42" selection-end-line="98" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materialowe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="96" column="44" lean-forward="true" selection-start-line="96" selection-start-column="44" selection-end-line="96" selection-end-column="44" />
         </state>
       </provider>
     </entry>
