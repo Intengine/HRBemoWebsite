@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1148dfea-23dd-4770-99bc-d99d4ccf5ce9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/akcesoria.html" beforeDir="false" afterPath="$PROJECT_DIR$/akcesoria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aktualnosci.html" beforeDir="false" afterPath="$PROJECT_DIR$/aktualnosci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dopobrania.html" beforeDir="false" afterPath="$PROJECT_DIR$/dopobrania.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dzieninoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/dzieninoc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/katalogi.html" beforeDir="false" afterPath="$PROJECT_DIR$/katalogi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/materialowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/materialowe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moskitiery.html" beforeDir="false" afterPath="$PROJECT_DIR$/moskitiery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ofirmie.html" beforeDir="false" afterPath="$PROJECT_DIR$/ofirmie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ofirmie_de.html" beforeDir="false" afterPath="$PROJECT_DIR$/ofirmie_de.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opakowania.html" beforeDir="false" afterPath="$PROJECT_DIR$/opakowania.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plisa.html" beforeDir="false" afterPath="$PROJECT_DIR$/plisa.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rzymska.html" beforeDir="false" afterPath="$PROJECT_DIR$/rzymska.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wertikale.html" beforeDir="false" afterPath="$PROJECT_DIR$/wertikale.html" afterDir="false" />
     </list>
@@ -34,11 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dopobrania.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dopobrania.html">
+      <file leaf-file-name="rzymska.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rzymska.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="81" column="67" selection-start-line="81" selection-start-column="67" selection-end-line="81" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wertikale.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wertikale.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="81" column="95" selection-start-line="81" selection-start-column="95" selection-end-line="81" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="akcesoria.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/akcesoria.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="444">
-              <caret line="104" column="36" lean-forward="true" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+              <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -78,21 +84,21 @@
         <option value="$PROJECT_DIR$/js/jquery.1.11.1.js" />
         <option value="$PROJECT_DIR$/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/akcesoria.html" />
         <option value="$PROJECT_DIR$/aktualnosci.html" />
         <option value="$PROJECT_DIR$/dzieninoc.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/katalogi.html" />
         <option value="$PROJECT_DIR$/kontakt.html" />
-        <option value="$PROJECT_DIR$/materialowe.html" />
         <option value="$PROJECT_DIR$/moskitiery.html" />
         <option value="$PROJECT_DIR$/ofirmie.html" />
         <option value="$PROJECT_DIR$/ofirmie_de.html" />
         <option value="$PROJECT_DIR$/opakowania.html" />
         <option value="$PROJECT_DIR$/plisa.html" />
+        <option value="$PROJECT_DIR$/dopobrania.html" />
+        <option value="$PROJECT_DIR$/materialowe.html" />
         <option value="$PROJECT_DIR$/rzymska.html" />
         <option value="$PROJECT_DIR$/wertikale.html" />
-        <option value="$PROJECT_DIR$/dopobrania.html" />
+        <option value="$PROJECT_DIR$/akcesoria.html" />
       </list>
     </option>
   </component>
@@ -238,12 +244,12 @@
       <workItem from="1549025060761" duration="6745000" />
       <workItem from="1549278327973" duration="862000" />
       <workItem from="1549438780011" duration="11082000" />
-      <workItem from="1549622092028" duration="432000" />
+      <workItem from="1549622092028" duration="866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173097000" />
+    <option name="totallyTimeSpent" value="173531000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -538,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/akcesoria.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="53" column="196" selection-start-line="53" selection-start-column="196" selection-end-line="53" selection-end-column="196" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aktualnosci.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -573,13 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/materialowe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="53" column="196" selection-start-line="53" selection-start-column="196" selection-end-line="53" selection-end-column="196" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/moskitiery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -587,20 +579,6 @@
           <folding>
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wertikale.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rzymska.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="53" column="196" selection-start-line="53" selection-start-column="196" selection-end-line="53" selection-end-column="196" />
         </state>
       </provider>
     </entry>
@@ -649,6 +627,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="104" column="36" lean-forward="true" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materialowe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="80" column="55" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rzymska.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="81" column="67" selection-start-line="81" selection-start-column="67" selection-end-line="81" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wertikale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="81" column="95" selection-start-line="81" selection-start-column="95" selection-end-line="81" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akcesoria.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
         </state>
       </provider>
     </entry>
