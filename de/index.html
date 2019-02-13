@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HR BEMO SP. Z O.O. - Lösungen von morgen</title>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="shortcut icon" type="image/png" href="../img/favicon.png"/>
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" type="text/css" href="../css/w3.css">
+</head>
+<body>
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal GDPR content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Information über DSGVO</h4>
+            </div>
+            <div class="modal-body">
+                <p>Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten möchten wir Sie gemäß Art. 13, Abs. 1 und 2 der Verordnung (EU) 2016/679
+                    des Europäischen Parlaments und des Rates vom 27.04.2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum
+                    freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119, 04.05.2016, S. 1), nachfolgend
+                    „DSGVO” genannt, wie folgt informieren:</p><br>
+                <h4>1. DATENSCHUTZBEAUFTRAGTER</h4>
+                <p>Der Datenschutzbeauftragte Ihrer personenbezogenen Daten ist HR BEMO Sp. z o.o. (43-392 Międzyrzecze Górne)</p><br>
+                <h4>2. KONTAKTDATEN DES DATENSCHUTZBEAUFTRAGTEN</h4>
+                <p>Wenn Sie Kontakt mit uns aufnehmen wollen, haben Sie die folgenden Möglichkeiten:</p>
+                <ul>
+                    <li>per E-Mail: biuro@hrbemo.pl</li>
+                    <li>unter der Tel.-Nr.: +48 509-162-542</li>
+                    <li>an den Firmensitz des Datenschutzbeauftragten</li>
+                </ul><br>
+                <h4>3. WOHER STAMMEN IHRE DATEN?</h4>
+                <p>Die von uns verarbeiteten Daten erhalten wir von Ihnen mit der ersten Bestellung.</p><br>
+                <h4>4. ZWECK UND RECHTSGRUNDLAGE DER VERARBEITUNG PERSONENBEZOGENER DATEN</h4>
+                <p>1. Wir verarbeiten Ihre personenbezogenen Daten, weil dies insbesondere zur Erbringung von folgenden Leistungen erforderlich ist:</p>
+                <ul>
+                    <li>Umsetzung der Vereinbarungen im Rahmen von Liefer- und/oder Dienstleistungsverträgen;</li>
+                    <li>Bearbeitung von Anfragen, die an uns geschickt werden;</li>
+                    <li>Kontaktaufnahme mit Ihnen wegen der von uns zu realisierenden Lieferungen von Waren und anderen Dienstleistungen;</li>
+                    <li>Unterstützung für Dienstleistungen im Bereich Lieferung und Versicherung der gekauften Waren;</li>
+                    <li>Sicherstellung einer reibungslosen Abwicklung Ihrer Zahlungen;</li>
+                    <li>Bearbeitung von eingelegten Reklamationen;</li>
+                    <li>Einzug von fremden Forderungen; Durchführung von Gerichts-, Schieds- und Streitbeilegungsverfahren;</li>
+                    <li>Erhebung der Daten zu Archivzwecken sowie zur Erfüllung von Rechenschaftspflichten, d.h. zum Nachweis der Einhaltung aller
+                        Rechtsgrundsätze;</li>
+                    <li>Erhebung der Daten nach anderen Rechtsgrundsätzen zu Steuer-, Rechnungszwecken etc.;</li>
+                </ul>
+                <p></p>
+                <p>2. Die Verarbeitung Ihrer personenbezogenen Daten erfolgt gemäß Art. 6 Abs. 1. Bst. f) DSGVO.</p><br>
+                <h4>5. MÖGLICHE EMPFÄNGER IHRER DATEN</h4>
+                <p>Ihre personenbezogenen Daten dienen uns ausschließlich zur ordnungsgemäßen Abwicklung Ihrer Geschäfte und Ausführung aller damit verbundenen
+                    Tätigkeiten, z.B. beim Einsatz von Hilfsarbeitskräften beim Transport (Paketdienstleister, Spediteure), Zahlungsverkehr (Banken,
+                    Geldinstitute), Einzug von Forderungen etc. Die Weitergabe von Daten erfolgt nicht an sonstige, mit uns nicht zusammenarbeitende
+                    Unternehmen, ausgenommen Unternehmen, die aufgrund von geltenden Rechtsvorschriften zur Verarbeitung berechtigt sind (z.B. Kontrollbehörden).</p><br>
+                <h4>6. ÜBERMITTLUNG VON DATEN IN DRITTLÄNDER AUSSERHALB DES EWR</h4>
+                <p>Ihre personenbezogenen Daten werden nicht in Drittländer außerhalb des EWR übermittelt.</p><br>
+                <h4>7. SPEICHERDAUER</h4>
+                <p>Wir erheben die Sie betreffenden personenbezogenen Daten in der Laufzeit des mit Ihnen abgeschlossenen Vertrags sowie nach seiner Beendigung
+                    zu folgenden Zwecken:</p>
+                <ul>
+                    <li>Geltendmachung von Ansprüchen im Zusammenhang mit und aus diesem Vertrag;</li>
+                    <li>Erfüllung aller sich aus Rechtsgrundsätzen ergebenden Pflichten, darunter auch Steuer- und Rechnungspflichten;</li>
+                    <li>Vorbeugung von Missbrauch und Betrug;</li>
+                    <li>Archivierung sowie Erfüllung von Rechenschaftspflichten, d.h. zum Nachweis der Einhaltung aller Rechtsgrundsätze;</li>
+                </ul><br>
+                <h4>8. BETROFFENENRECHTE</h4>
+                <p>Im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten stehen Ihnen folgende Rechte zu:</p>
+                <ul>
+                    <li>Recht auf Zugang zu den Sie betreffenden personenbezogenen Daten</li>
+                    <li>Recht auf Weiterverarbeitung</li>
+                    <li>Recht auf Berichtigung</li>
+                    <li>Recht auf Einschränkung der Verarbeitung</li>
+                    <li>Recht auf Löschung</li>
+                    <li>Widerspruchsrecht gegen die Verarbeitung</li>
+                    <li>Recht auf Datenübertragbarkeit</li>
+                    <li>Recht auf Widerruf der datenschutzrechtlichen Einwilligungserklärung</li>
+                    <li>pRecht auf Beschwerde bei einer Aufsichtsbehörde, hier beim Präsidenten des polnischen Amtes für Datenschutzaufsicht: Urząd Ochrony
+                        Danych Osobowych ul. Stawki 2, 00-193 Warszawa.</li>
+                </ul><br>
+                <h4>9. ERFORDERLICHKEIT / FREIWILLIGKEIT DER BEREITSTELLUNG VON DATEN UND MÖGLICHE FOLGEN DER NICHTBEREITSTELLUNG</h4>
+                <p>Um mit Ihnen einen Vertrag abschließen bzw. eine Leistung für Sie erbringen zu können, sind u.a. folgenden Daten erforderlich:</p>
+                <ul>
+                    <li>vollständige Firmenbezeichnung, unter der das Unternehmen geführt wird (gemäß der Eintragung ins Register der Gewerbetätigkeit,
+                        z.B. CEIDG in Polen);</li>
+                    <li>genaue Adresse des Hauptortes der Ausführung (gemäß der Eintragung ins Register der Gewerbetätigkeit, z.B. CEIDG in Polen);</li>
+                    <li>genaue Zustellungsanschrift (gemäß der Eintragung ins Register der Gewerbetätigkeit, z.B. CEIDG in Polen);</li>
+                    <li>USt-IdNr. (NIP), Gewerbeanmeldungsnummer (REGON);</li>
+                    <li>E-Mail-Adresse (für den Schriftverkehr);</li>
+                    <li>Lieferadresse;</li>
+                    <li>Telefonnummer(n) (für Kontakt);</li>
+                    <li>event. Ansprechpartner (Vornamen, Namen, Telefonnummern, E-Mail-Adressen etc.), die zu Kontaktgesprächen in Ihrer Firma berechtigt sind;</li>
+                    <li>andere Daten, die bei der Leistungserbringung erforderlich sind oder helfen können;</li>
+                </ul>
+                <p></p>
+                <p>Die Bereitstellung personenbezogener Daten kann in einigen Fällen gesetzlich vorgeschrieben und von uns erwartet sein (z.B. zu Steuerzwecken)
+                    und die Nichtbereitstellung solcher Daten ist mit rechtlichen Folgen verbunden. Sonst gilt die Bereitstellung der Daten weder als eine
+                    Vertragsbestimmung noch als eine für die Erbringung der Leistungen erforderliche Anforderung und ist demzufolge freiwillig. Wenn wir - aus
+                    welchem Grund auch immer - diese Daten nicht verarbeiten dürfen, sind wir leider nicht imstande, einen rechtswirksamen Vertrag mit Ihnen zu
+                    schließen. Demzufolge können wir für Sie keine Leistungen erbringen oder diese Leistungserbringung muss deutlich eingeschränkt werden.</p><br>
+                <h4>10. AUTOMATISIERTE ENTSCHEIDUNGSFINDUNG, PROFILING</h4>
+                <p>Die Sie betreffenden personenbezogenen Daten werden weder automatisiert verarbeitet noch profiliert.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Zustimmen</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="alert">
+    Diese Webseite nutzt Cookies. Sie können in den Einstellungen Ihres Browsers oder bei der Konfiguration von Diensten Bedingungen festlegen, unter denen
+    die Cookies-Dateien gespeichert bzw. abgerufen werden können.<br><br>
+    <span class="btn btn-primary-border" onclick="this.parentElement.style.display='none';">Zustimmen</span>&nbsp; &nbsp; &nbsp;
+    <button type="button" class="btn btn-primary-border" data-toggle="modal" data-target="#exampleModal">Weitere Informationen</button>
+</div>
+
+<!-- Modal Cookies -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">COOKIE POLICY</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p><strong>1.</strong> Diese Website sammelt automatisch nur die in Cookies enthaltenen Informationen.</p>
+                <p><strong>2.</strong> Cookies sind Textdateien, die auf dem Endgerät des Benutzers gespeichert werden und für die Verwendung der Seiten
+                    benutzt werden. Sie enthalten vor allem den Namen der ursprünglichen Webseite, ihre einzigartigen Nummern und die Dauer ihrer Speicherung
+                    auf dem Gerät.</p>
+                <p><strong>3.</strong> Der Betreiber der Website, HR BEMO Sp. z o.o. (43-392 Międzyrzecze Górne), installiert Cookies auf dem Endgerät des
+                    Benutzers und kann jederzeit auf diese Cookies zugreifen.</p>
+                <p><strong>4.</strong> Der Betreiber verwendet die Cookies-Dateien, um:</p>
+                <ul>
+                    <li>die Inhalte der Webseiten den persönlichen Präferenzen des Benutzers optimal anzupassen; die Dateien erkennen das Gerät des Benutzers
+                        und erlauben, entsprechende Seite nach seinen Präferenzen anzuzeigen;</li>
+                    <li>Statistiken zu erstellen, wodurch Präferenzen und Verhaltensweisen der Benutzer erkundigt werden können; die Statistiken werden anonym
+                        bewertet, was ermöglicht, den Inhalt und das Aussehen der Website den herrschenden Trends anzupassen; die Statistiken werden auch zur
+                        Bewertung der Beliebtheit einer Seite verwendet.</li>
+                </ul>
+                <p><strong>5.</strong> Die Website verwendet zwei Arten von Cookies - die sog. „Session-Cookies“ und „Permanente Cookies“. Die Session-Cookies
+                    sind temporäre Cookies, die solange auf dem Gerät bleiben, bis der Benutzer die Seite wieder verlässt (in eine andere Seite wechselt, sich
+                    abmeldet oder den Browser schließt). Die permanenten Cookies sind hingegen dauerhaft und bleiben auf dem Gerät, bis der Benutzer sie löscht,
+                    oder für eine bestimmte Zeitspanne.</p>
+                <p><strong>6.</strong> Der Benutzer kann jederzeit die Browser-Einstellungen ändern und damit automatische Cookiebehandlung blockieren bzw.
+                    jedesmal nachfragen lassen, bevor Cookies gespeichert werden. In den Browser-Einstellungen kann man auch andere zur Verfügung stehenden
+                    Optionen prüfen. Es ist zu beachten, dass die meisten Browsers standardmäßig so eingestellt sind, dass sie die Speicherung von Cookies auf
+                    dem Endgerät automatisch akzeptieren.</p>
+                <p><strong>7.</strong> Der Betreiber der Website teilt mit, dass Änderungen in den Einstellungen des Internetbrowsers des Benutzers den Zugang
+                    zu einigen Funktionen der Website einschränken können.</p>
+                <p><strong>8.</strong> Die Cookies-Dateien, die auf der Website genutzt (und auf dem Endgerät des Benutzers installiert) werden, können unseren
+                    Geschäftspartnern sowie den mit ihnen zusammenarbeitenden Werbegebern zugänglich gemacht werden.</p>
+                <p><strong>9.</strong> Die Informationen über die Einstellungen von Internetbrowsern können im Menü (Hilfe) oder auf der Internetseite des
+                    Herstellers abgerufen werden.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Zustimmen</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid navbar-fixed-top">
+    <div class="row">
+        <div class="col-md-12" id="header">
+            <i class="fas fa-phone"></i>&nbsp;(33) 818 80 44
+            &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+            <i class="fas fa-envelope"></i>&nbsp;biuro@hrbemo.pl
+            <img class="flags" src="../img/ru_flag.jpg">
+            <a href="#"><img class="flags" src="../img/de_flag.jpg"></a>
+            <a href="../en/index.html"><img class="flags" src="../img/en_flag.jpg"></a>
+            <a href="../index.html"><img class="flags" src="../img/pl_flag.jpg"></a>
+        </div>
+    </div>
+    <div class="row white">
+        <div class="col-md-3 logo">
+            <a href="index.html"><img class="img-responsive" src="../img/logo_hrbemo.png"></a>
+        </div>
+        <div class="col-md-9 navigation topBottomBordersOut" id="myTopnav">
+            <a href="index.html">HOME</a>
+            <a href="ofirmie.html">UNTERNEHMEN</a>
+            <!--<a href="aktualnosci.html">AKTUALNOŚCI</a>-->
+            <div class="w3-dropdown-hover">
+                <a>PRODUKTE</a>
+                <div class="w3-dropdown-content w3-bar-block w3-border">
+                    <a href="plisa.html" class="w3-bar-item w3-button">Plissees</a>
+                    <a href="rzymska.html" class="w3-bar-item w3-button">Raffrollos</a>
+                    <a href="materialowe.html" class="w3-bar-item w3-button">Rollos</a>
+                    <a href="doppelrollo.html" class="w3-bar-item w3-button">Doppelrollos</a>
+                    <a href="moskitiery.html" class="w3-bar-item w3-button">Insektenschutz</a>
+                    <a href="wertikale.html" class="w3-bar-item w3-button">Vertikal-Jalousien</a>
+                    <a href="zubehor.html" class="w3-bar-item w3-button">Zubehör</a>
+                    <a href="opakowania.html" class="w3-bar-item w3-button">Verpackungen</a>
+                </div>
+            </div>
+            <div class="w3-dropdown-hover">
+                <a href="downloads.html">DOWNLOADS</a>
+                <div class="w3-dropdown-content w3-bar-block w3-border">
+                    <a href="katalog.html" class="w3-bar-item w3-button">Katalog</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/open?id=1nWh5-kJqD5W-Q_wbuf22ZjovD8JRZ75Z" class="w3-bar-item w3-button">Montageanleitungen</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/open?id=1ZN1tfzf8xm6_YCx-EniM0u-B6SwXd7l_" class="w3-bar-item w3-button">AGB</a>
+                </div>
+            </div>
+            <a href="kontakt.html">KONTAKT</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid" id="top">
+    <div class="row">
+        <div class="col-md-12" id="topText">
+            HERZLICH WILLKOMMEN AUF DER WEBSITE
+            <br><img id="whiteLogo" src="../img/logo_hrbemo_białe.png">
+        </div>
+    </div>
+</div>
+
+<!--<footer>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">
+                <img class="img-responsive" src="img/logo_hrbemo_białe.png">
+                <p>HR BEMO SP. Z O.O.</p>
+                <span>
+                    <i class="fas fa-map-marker-alt"></i>&nbsp; &nbsp; &nbsp; &nbsp;43-300 Bielsko-Biała<br>
+                    <br><i class="fas fa-phone"></i>&nbsp; &nbsp; &nbsp;(33) 818 80 44<br>
+                    <br><i class="fas fa-envelope"></i>&nbsp; &nbsp; &nbsp;biuro@hrbemo.pl
+                </span>
+            </div>
+            <div class="col-md-4">
+                <ul>
+                    <li>KRS: 0000377066</li>
+                    <li>NIP: 937-26-41-220</li>
+                    <li>REGON: 241850795</li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                Znajdziesz nas na:
+                <br>
+                <a href=""><i class="fa fa-facebook-square" style="font-size: 36px;"></i></a> |
+                <a href=""><i class="fa fa-twitter-square" style="font-size: 36px;"></i></a> |
+                <a href=""><i class="fa fa-instagram" style="font-size: 36px;"></i></a>
+                <br><br><br><br>
+                <a href="http://rosella.pl"><img class="img-responsive" src="img/logo_rosella.png" style="width: 40%; height: 40%;"></a><br>
+                <a href="http://wiren.pl"><img class="img-responsive" src="img/logo_wiren.png" style="width: 40%; height: 40%;"></a><br>
+                <a href="http://sedaw.pl"><img class="img-responsive" src="img/logo_sedaw.png" style="width: 40%; height: 40%;"></a>
+            </div>
+        </div>
+    </div>
+</footer>-->
+
+<footer class="copyright">Copyright &copy; 2019 HR BEMO Sp. z o.o.</footer>
+
+<script src="../js/jquery.1.11.1.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/script.js"></script>
+</body>
+</html>
