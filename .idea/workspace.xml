@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1148dfea-23dd-4770-99bc-d99d4ccf5ce9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/de/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +22,8 @@
       <file leaf-file-name="akcesoria.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ru/akcesoria.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="53" column="183" lean-forward="true" selection-start-line="53" selection-start-column="183" selection-end-line="53" selection-end-column="183" />
+            <state relative-caret-position="165">
+              <caret line="53" column="183" selection-start-line="53" selection-start-column="183" selection-end-line="53" selection-end-column="183" />
             </state>
           </provider>
         </entry>
@@ -32,17 +31,49 @@
       <file leaf-file-name="download.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ru/download.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+            <state relative-caret-position="603">
+              <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dzieninoc.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dzieninoc.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ru/dzieninoc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="87" column="25" lean-forward="true" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
+            <state relative-caret-position="266">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ru/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="116" column="14" lean-forward="true" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+              <folding>
+                <element signature="e#1148#1154#0" expanded="true" />
+                <element signature="e#1155#1161#0" expanded="true" />
+                <element signature="e#1162#1168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="katalogi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ru/katalogi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kontakt.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ru/kontakt.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -77,9 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wyszukiwarka.html" />
-        <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/js/jquery.1.11.1.js" />
         <option value="$PROJECT_DIR$/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/ofirmie_de.html" />
         <option value="$PROJECT_DIR$/css/w3.css" />
@@ -128,6 +156,9 @@
         <option value="$PROJECT_DIR$/ru/akcesoria.html" />
         <option value="$PROJECT_DIR$/ru/download.html" />
         <option value="$PROJECT_DIR$/ru/dzieninoc.html" />
+        <option value="$PROJECT_DIR$/ru/index.html" />
+        <option value="$PROJECT_DIR$/ru/katalogi.html" />
+        <option value="$PROJECT_DIR$/ru/kontakt.html" />
       </list>
     </option>
   </component>
@@ -149,7 +180,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -294,12 +325,14 @@
       <workItem from="1549622092028" duration="4083000" />
       <workItem from="1549636098990" duration="4000" />
       <workItem from="1549968452262" duration="10747000" />
-      <workItem from="1550041986179" duration="13097000" />
+      <workItem from="1550041986179" duration="14741000" />
+      <workItem from="1550068047328" duration="1045000" />
+      <workItem from="1550131609390" duration="3234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200596000" />
+    <option name="totallyTimeSpent" value="206519000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,7 +344,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49931788" visible="true" weight="0.15902779" />
@@ -358,28 +391,7 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="944" column="19" lean-forward="true" selection-start-line="944" selection-start-column="19" selection-end-line="944" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8446">
-          <caret line="70" column="16" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ofirmie_de.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ofirmie_de.html" />
     <entry file="file://$PROJECT_DIR$/css/w3.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="915">
@@ -639,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/en/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/de/kontakt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
@@ -688,24 +693,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ru/dzieninoc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ru/download.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+        <state relative-caret-position="603">
+          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ru/akcesoria.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="53" column="183" lean-forward="true" selection-start-line="53" selection-start-column="183" selection-end-line="53" selection-end-column="183" />
+        <state relative-caret-position="165">
+          <caret line="53" column="183" selection-start-line="53" selection-start-column="183" selection-end-line="53" selection-end-column="183" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ru/dzieninoc.html">
+    <entry file="file://$PROJECT_DIR$/ru/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="87" column="25" lean-forward="true" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
+        <state relative-caret-position="560">
+          <caret line="116" column="14" lean-forward="true" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+          <folding>
+            <element signature="e#1148#1154#0" expanded="true" />
+            <element signature="e#1155#1161#0" expanded="true" />
+            <element signature="e#1162#1168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ru/katalogi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-793">
+          <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ru/kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
     </entry>
