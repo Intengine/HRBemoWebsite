@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1148dfea-23dd-4770-99bc-d99d4ccf5ce9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/doppelrollo.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/doppelrollo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/downloads.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/insektenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/insektenschutz.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/katalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/katalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/lamellenvorhang.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/lamellenvorhang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/plissees.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/plissees.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/raffrollos.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/raffrollos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/rollos.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/rollos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/unternehmen.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/unternehmen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/verpackungen.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/verpackungen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/de/zubehor.html" beforeDir="false" afterPath="$PROJECT_DIR$/de/zubehor.html" afterDir="false" />
     </list>
@@ -27,83 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lamellenvorhang.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lamellenvorhang.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/de/lamellenvorhang.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="99" column="133" selection-start-line="99" selection-start-column="133" selection-end-line="99" selection-end-column="133" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="katalog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de/katalog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="225" column="137" selection-start-line="225" selection-start-column="137" selection-end-line="225" selection-end-column="137" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zubehor.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de/zubehor.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="97" column="133" selection-start-line="97" selection-start-column="133" selection-end-line="97" selection-end-column="133" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="verpackungen.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de/verpackungen.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="96" column="133" selection-start-line="96" selection-start-column="133" selection-end-line="96" selection-end-column="133" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rollos.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de/rollos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="98" column="67" lean-forward="true" selection-start-line="98" selection-start-column="67" selection-end-line="98" selection-end-column="133" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="raffrollos.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de/raffrollos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="100" column="135" lean-forward="true" selection-start-line="100" selection-start-column="135" selection-end-line="100" selection-end-column="135" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plissees.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/de/plissees.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insektenschutz.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de/insektenschutz.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="101" column="133" selection-start-line="101" selection-start-column="133" selection-end-line="101" selection-end-column="133" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="doppelrollo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/de/doppelrollo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="114" column="67" selection-start-line="114" selection-start-column="67" selection-end-line="114" selection-end-column="133" />
+            <state relative-caret-position="248">
+              <caret line="58" column="78" lean-forward="true" selection-start-line="58" selection-start-column="78" selection-end-line="58" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -149,10 +82,6 @@
         <option value="$PROJECT_DIR$/ru/plisa.html" />
         <option value="$PROJECT_DIR$/ru/rzymska.html" />
         <option value="$PROJECT_DIR$/ru/wertikale.html" />
-        <option value="$PROJECT_DIR$/de/downloads.html" />
-        <option value="$PROJECT_DIR$/de/index.html" />
-        <option value="$PROJECT_DIR$/de/kontakt.html" />
-        <option value="$PROJECT_DIR$/de/unternehmen.html" />
         <option value="$PROJECT_DIR$/en/about.html" />
         <option value="$PROJECT_DIR$/en/accessories.html" />
         <option value="$PROJECT_DIR$/en/contact.html" />
@@ -180,14 +109,18 @@
         <option value="$PROJECT_DIR$/rzymska.html" />
         <option value="$PROJECT_DIR$/wertikale.html" />
         <option value="$PROJECT_DIR$/en/catalogues.html" />
-        <option value="$PROJECT_DIR$/de/lamellenvorhang.html" />
         <option value="$PROJECT_DIR$/de/doppelrollo.html" />
+        <option value="$PROJECT_DIR$/de/downloads.html" />
+        <option value="$PROJECT_DIR$/de/index.html" />
         <option value="$PROJECT_DIR$/de/insektenschutz.html" />
+        <option value="$PROJECT_DIR$/de/katalog.html" />
+        <option value="$PROJECT_DIR$/de/kontakt.html" />
+        <option value="$PROJECT_DIR$/de/lamellenvorhang.html" />
         <option value="$PROJECT_DIR$/de/plissees.html" />
         <option value="$PROJECT_DIR$/de/raffrollos.html" />
         <option value="$PROJECT_DIR$/de/rollos.html" />
+        <option value="$PROJECT_DIR$/de/unternehmen.html" />
         <option value="$PROJECT_DIR$/de/verpackungen.html" />
-        <option value="$PROJECT_DIR$/de/katalog.html" />
         <option value="$PROJECT_DIR$/de/zubehor.html" />
       </list>
     </option>
@@ -207,7 +140,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="805" />
@@ -347,12 +280,13 @@
       <workItem from="1549968452262" duration="10747000" />
       <workItem from="1550041986179" duration="14741000" />
       <workItem from="1550068047328" duration="1045000" />
-      <workItem from="1550131609390" duration="17205000" />
+      <workItem from="1550131609390" duration="17209000" />
+      <workItem from="1550215910471" duration="297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220490000" />
+    <option name="totallyTimeSpent" value="220791000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,7 +298,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="803" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49931788" visible="true" weight="0.15902779" />
@@ -478,32 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="116" column="14" lean-forward="true" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
-          <folding>
-            <element signature="e#1148#1154#0" expanded="true" />
-            <element signature="e#1155#1161#0" expanded="true" />
-            <element signature="e#1162#1168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de/kontakt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de/unternehmen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="176" column="87" selection-start-line="176" selection-start-column="87" selection-end-line="176" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -705,73 +613,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/de/lamellenvorhang.html">
+    <entry file="file://$PROJECT_DIR$/de/doppelrollo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="99" column="133" selection-start-line="99" selection-start-column="133" selection-end-line="99" selection-end-column="133" />
+        <state relative-caret-position="364">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/de/doppelrollo.html">
+    <entry file="file://$PROJECT_DIR$/de/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="114" column="67" selection-start-line="114" selection-start-column="67" selection-end-line="114" selection-end-column="133" />
+        <state relative-caret-position="438">
+          <caret line="208" column="137" selection-start-line="208" selection-start-column="137" selection-end-line="208" selection-end-column="137" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/de/insektenschutz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="101" column="133" selection-start-line="101" selection-start-column="133" selection-end-line="101" selection-end-column="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de/raffrollos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="100" column="135" lean-forward="true" selection-start-line="100" selection-start-column="135" selection-end-line="100" selection-end-column="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de/rollos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="98" column="67" lean-forward="true" selection-start-line="98" selection-start-column="67" selection-end-line="98" selection-end-column="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de/verpackungen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="96" column="133" selection-start-line="96" selection-start-column="133" selection-end-line="96" selection-end-column="133" />
+        <state relative-caret-position="509">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/de/katalog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="225" column="137" selection-start-line="225" selection-start-column="137" selection-end-line="225" selection-end-column="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/de/zubehor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="97" column="133" selection-start-line="97" selection-start-column="133" selection-end-line="97" selection-end-column="133" />
+        <state relative-caret-position="93">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/de/downloads.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-912">
-          <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+        <state relative-caret-position="483">
+          <caret line="97" column="125" selection-start-line="97" selection-start-column="125" selection-end-line="97" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de/kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/de/plissees.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="73" column="29" lean-forward="true" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+        <state relative-caret-position="447">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de/raffrollos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de/rollos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de/unternehmen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de/verpackungen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de/zubehor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="54" column="137" selection-start-line="54" selection-start-column="137" selection-end-line="54" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de/lamellenvorhang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="58" column="78" lean-forward="true" selection-start-line="58" selection-start-column="78" selection-end-line="58" selection-end-column="78" />
         </state>
       </provider>
     </entry>
